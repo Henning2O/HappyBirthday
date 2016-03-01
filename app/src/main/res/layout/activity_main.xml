@@ -31,7 +31,7 @@
         android:textColor="@android:color/white"
         android:fontFamily="sans-serif-light"
         android:padding="20dp"
-        android:textSize="34sp"
+        android:textSize="15sp"
         android:textAppearance="@android:style/TextAppearance.Large"
         android:text="From, Henning!" />
 
